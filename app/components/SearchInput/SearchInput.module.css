@@ -1,0 +1,17 @@
+/* components/SearchInput.module.css */
+.searchInputContainer {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.searchInput {
+    flex: 1;
+    border: none;
+    padding: 4px;
+}
+
+.searchIcon {
+    margin-right: 8px;
+}
